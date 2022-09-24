@@ -1,0 +1,10 @@
+site_name: Resumen de Comnandos git
+
+theme:
+  name: material
+  favicon: imgs/git_icono.png
+  palette:
+    primary: teal
+  font:
+    text: Baloo 2
+    code: Roboto Mono
