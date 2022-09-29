@@ -1,8 +1,7 @@
-site_name: Resumen de Comnandos git
+site_name: Resumen de Comandos git
 
 theme:
   name: material
-  favicon: imgs/git_icono.png
   palette:
     primary: teal
   font:

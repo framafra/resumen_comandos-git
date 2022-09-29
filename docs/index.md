@@ -6,7 +6,7 @@ hide:
 ---
 
 ## Resumen de Comandos git
-![git](/imgs/git_image.png)
+![git](img/git_image.png)
 
 1. **git init**.- inicializa un repositorio.
 2. **git add**.- añade elementos de la copia de trabajo (working) en el control de versiones (área de preparado o staging).
