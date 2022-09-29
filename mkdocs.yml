@@ -1,5 +1,5 @@
 site_name: Resumen de Comandos git
-
+site_dir: 'site'
 theme:
   name: material
   palette:
